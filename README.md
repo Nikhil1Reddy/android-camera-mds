@@ -1,1 +1,1 @@
-# android-camera-mds - test
+# android-camera-mds
